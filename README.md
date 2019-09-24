@@ -11,5 +11,5 @@ Sample that demonstrates how to setup multiple projects workspace for iOS using 
 - Clone repository;
 - Open `sample` folder and run `pod install` there;
 - Open `sample.workspace`;
-- Swithc targets to switch projects;
+- Switch targets to switch projects;
 - Enjoy using one workspace with multiple projects and `Cocoa-pods` dependencies.
